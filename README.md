@@ -1,2 +1,2 @@
-# Real Estate Price Predictor
-Real Estate Price Prediction using Python
+# Bangalore House Price Predictor
+Using Linear Regression to predict the price of houses in Bangalore. 
